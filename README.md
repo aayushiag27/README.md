@@ -1,4 +1,3 @@
-# README.md
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E29578&center=true&vcenter=true&width=500&lines=Hey+there!+I'm+a+Web+Developer;Crafting+aesthetic+web+experiences;HTML+%2B+CSS+Master+%7C+JS+Explorer;Journaling+%26+Travelling+Enthusiast" alt="Typing SVG" />
 </h1>
@@ -57,3 +56,4 @@
 ✈️  Destinations Explored  : [ 🌍 World Explorer In Progress ]
 📓  Journal Pages Filled   : [ ✍️ Countless Stories & Code Snippets ]
 💻  Current Quest          : [ 🚀 Building Interactive JS Projects ]
+
